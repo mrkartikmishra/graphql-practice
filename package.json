@@ -1,0 +1,26 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "GraphQL Practice",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkartikmishra/graphql-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkartikmishra/graphql-practice/issues"
+  },
+  "homepage": "https://github.com/mrkartikmishra/graphql-practice#readme",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  }
+}
